@@ -1,0 +1,1 @@
+export { VerboseComponent } from "./deployment-settings";
