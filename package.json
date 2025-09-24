@@ -1,6 +1,6 @@
 {
   "name": "verbose-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A (verbose) Pulumi Component Resource that does nothing but be verbose.",
   "license": "ISC",
   "dependencies": {
